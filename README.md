@@ -6,7 +6,7 @@ In this project, we can learn four things:
 2. Working with API Endpoints and Web Services.
 3. Examining libraries that interact with web services.
 4. Working with python dictionaries to create outputs beyond the command line, including creating HTML widgets and sending Emails.  
-You should get authentication first, paste the API token code in the first line of authentication.py. Then, open the ipynb files and run them to send an email or search for something you need on YouTube or Spotify.
+You should get API authentication first, paste the API token code in the first line of authentication.py. Then, open the ipynb files and run them to send an email or search for something you need on YouTube or Spotify.
 
 ### REST (REpresentational State Transfer) API
 1. A RESTful API is an application program interface (API) that uses HTTP requests to create, read, update, and delete data using a web protocol
